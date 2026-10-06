@@ -24,43 +24,34 @@
 ⚙️ Working across Python/FastAPI and React/TypeScript
 ```
 
-## Featured builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔎 Deep Research Agent</h3>
-      <p>Plan → retrieve → verify → synthesize, with local RAG, citation checks, execution traces and multi-model routing.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>FAISS</code> <code>React</code></p>
-      <a href="https://github.com/HHHFFF-HHHFFF/Deep_Research_Agent">Explore the repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧹 CleanPilot AI</h3>
-      <p>An enterprise multi-agent service platform with hybrid retrieval, reranking, controlled skills, semantic memory and RBAC.</p>
-      <p><code>LangGraph</code> <code>Chroma</code> <code>SSE</code> <code>TypeScript</code></p>
-      <a href="https://github.com/HHHFFF-HHHFFF/CleanPilot-AI">Explore the repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📋 Research Survey Platform</h3>
-      <p>A four-arm, concealed-allocation online experiment platform built for research workflows.</p>
-      <p><code>TypeScript</code> <code>Research tooling</code></p>
-      <a href="https://github.com/HHHFFF-HHHFFF/Survey_Platform_for_Research">Explore the repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 Hardware side quests</h3>
-      <p>ESP32 air-quality monitoring, power monitoring and a DIY split-flap display.</p>
-      <p><code>ESP32</code> <code>IoT</code> <code>Prototyping</code></p>
-      <a href="https://github.com/HHHFFF-HHHFFF?tab=repositories">Browse all projects →</a>
-    </td>
-  </tr>
-</table>
-
-## Toolbox
+## 🧰 Languages, Frameworks, Tools & Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,vite,sqlite,git,docker&theme=dark" alt="Python, FastAPI, React, TypeScript, Vite, SQLite, Git and Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <br />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <br />
+  <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Chroma-FF6B35?style=flat-square&logoColor=white" alt="Chroma" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ## GitHub signal
