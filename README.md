@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/minecraft-pig-coding-banner-v2.gif" width="100%" alt="A Minecraft-style pig pauses to think, then codes at a computer" />
+<img src="./assets/minecraft-pig-coding-banner-v3.gif" width="100%" alt="A Minecraft-style pig blinks, wiggles its ear, scratches its head, then codes" />
 
 # Hi, I'm Yifan Hou 👋
 
