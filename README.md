@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/minecraft-pig-coding-banner-v4.gif" width="100%" alt="A Minecraft-style pig blinks, wiggles its ear, scratches its head, then types with alternating hooves" />
+<img src="./assets/minecraft-pig-coding-banner-v5.gif" width="100%" alt="A Minecraft-style pig blinks, flaps one ear, raises a hoof to scratch its head, then types" />
 
 # Hi, I'm Yifan Hou 👋
 
